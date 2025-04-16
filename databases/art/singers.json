@@ -1,0 +1,204 @@
+{
+"singers": [
+	{
+		"id" : 1,
+		"first_name" : "SELENA",
+		"last_name" : "GOMEZ",
+		"birth_date" : "1992-07-22",
+		"genre" : "POP",
+		"gender" : "FEMALE",
+		"heigth" : 1.65,
+		"awards" : 15
+	},
+	{
+		"id" : 2,
+		"first_name" : "BECKY",
+		"last_name" : "G",
+		"birth_date" : "1997-03-02",
+		"genre" : "REGGAETON",
+		"gender" : "FEMALE",
+		"heigth" : 1.52,
+		"awards" : 5
+	},
+	{
+		"id" : 3,
+		"first_name" : "KAROL",
+		"last_name" : "G",
+		"birth_date" : "1991-02-14",
+		"genre" : "REGGAETON",
+		"gender" : "FEMALE",
+		"heigth" : 1.7,
+		"awards" : 10
+	},
+	{
+		"id" : 4,
+		"first_name" : "TAYLOR",
+		"last_name" : "SWIFT",
+		"birth_date" : "1989-12-13",
+		"genre" : "POP",
+		"gender" : "FEMALE",
+		"heigth" : 1.8,
+		"awards" : 30
+	},
+	{
+		"id" : 5,
+		"first_name" : "ARIANA",
+		"last_name" : "GRANDE",
+		"birth_date" : "1993-06-26",
+		"genre" : "POP",
+		"gender" : "FEMALE",
+		"heigth" : 1.53,
+		"awards" : 20
+	},
+	{
+		"id" : 6,
+		"first_name" : "DUA",
+		"last_name" : "LIPA",
+		"birth_date" : "1995-08-22",
+		"genre" : "POP",
+		"gender" : "FEMALE",
+		"heigth" : 1.65,
+		"awards" : 18
+	},
+	{
+		"id" : 7,
+		"first_name" : "CAMILA",
+		"last_name" : "CABELLO",
+		"birth_date" : "1997-03-03",
+		"genre" : "POP",
+		"gender" : "FEMALE",
+		"heigth" : 1.6,
+		"awards" : 12
+	},
+	{
+		"id" : 8,
+		"first_name" : "SHAWN",
+		"last_name" : "MENDES",
+		"birth_date" : "1998-08-08",
+		"genre" : "POP",
+		"gender" : "MALE",
+		"heigth" : 1.88,
+		"awards" : 25
+	},
+	{
+		"id" : 9,
+		"first_name" : "BILLIE",
+		"last_name" : "EILISH",
+		"birth_date" : "2001-12-18",
+		"genre" : "POP",
+		"gender" : "FEMALE",
+		"heigth" : 1.61,
+		"awards" : 8
+	},
+	{
+		"id" : 10,
+		"first_name" : "ED",
+		"last_name" : "SHEERAN",
+		"birth_date" : "1991-02-17",
+		"genre" : "POP",
+		"gender" : "MALE",
+		"heigth" : 1.73,
+		"awards" : 22
+	},
+	{
+		"id" : 11,
+		"first_name" : "JUSTIN",
+		"last_name" : "BIEBER",
+		"birth_date" : "1994-03-01",
+		"genre" : "POP",
+		"gender" : "MALE",
+		"heigth" : 1.75,
+		"awards" : 17
+	},
+	{
+		"id" : 12,
+		"first_name" : "RIHANNA",
+		"last_name" : "FENTY",
+		"birth_date" : "1988-02-20",
+		"genre" : "R&B",
+		"gender" : "FEMALE",
+		"heigth" : 1.73,
+		"awards" : 30
+	},
+	{
+		"id" : 13,
+		"first_name" : "KATY",
+		"last_name" : "PERRY",
+		"birth_date" : "1984-10-25",
+		"genre" : "POP",
+		"gender" : "FEMALE",
+		"heigth" : 1.7,
+		"awards" : 28
+	},
+	{
+		"id" : 14,
+		"first_name" : "HARRY",
+		"last_name" : "STYLES",
+		"birth_date" : "1994-02-01",
+		"genre" : "POP",
+		"gender" : "MALE",
+		"heigth" : 1.8,
+		"awards" : 15
+	},
+	{
+		"id" : 15,
+		"first_name" : "THE WEEKND",
+		"last_name" : "TESFAYE",
+		"birth_date" : "1990-02-16",
+		"genre" : "R&B",
+		"gender" : "MALE",
+		"heigth" : 1.78,
+		"awards" : 21
+	},
+	{
+		"id" : 16,
+		"first_name" : "BEYONCE",
+		"last_name" : "KNOWLES",
+		"birth_date" : "1981-09-04",
+		"genre" : "R&B",
+		"gender" : "FEMALE",
+		"heigth" : 1.69,
+		"awards" : 27
+	},
+	{
+		"id" : 17,
+		"first_name" : "ZAYN",
+		"last_name" : "MALIK",
+		"birth_date" : "1993-01-12",
+		"genre" : "POP",
+		"gender" : "MALE",
+		"heigth" : 1.75,
+		"awards" : 10
+	},
+	{
+		"id" : 18,
+		"first_name" : "CARDI",
+		"last_name" : "B",
+		"birth_date" : "1992-10-11",
+		"genre" : "HIP HOP",
+		"gender" : "FEMALE",
+		"heigth" : 1.6,
+		"awards" : 8
+	},
+	{
+		"id" : 19,
+		"first_name" : "POST",
+		"last_name" : "MALONE",
+		"birth_date" : "1995-07-04",
+		"genre" : "HIP HOP",
+		"gender" : "MALE",
+		"heigth" : 1.84,
+		"awards" : 12
+	},
+	{
+		"id" : 20,
+		"first_name" : "LIZZO",
+		"last_name" : "JEFFERSON",
+		"birth_date" : "1988-04-27",
+		"genre" : "POP",
+		"gender" : "FEMALE",
+		"heigth" : 1.78,
+		"awards" : 14
+	}
+]}
+
