@@ -1,5 +1,4 @@
-{
-  [
+[
 	{
 		"atomic_number" : 1,
 		"symbol" : "H",
@@ -2124,5 +2123,4 @@
 		"electronic_configuration_small" : "[RN] 7s2 5f14 6d10 7p6",
 		"name_spanish" : "OGANESON"
 	}
-]}
-
+]
